@@ -2,6 +2,9 @@
 Changelog for package ament_cmake_export_libraries
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+
 3.1.0 (2024-04-26)
 ------------------
 
