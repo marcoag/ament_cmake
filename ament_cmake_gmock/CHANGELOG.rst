@@ -2,6 +2,9 @@
 Changelog for package ament_cmake_gmock
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+
 3.0.0 (2024-04-26)
 ------------------
 
